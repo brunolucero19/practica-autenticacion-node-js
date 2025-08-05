@@ -222,25 +222,6 @@ GET /protected          # Área protegida (requiere auth)
 - [ ] Logging con Winston
 - [ ] Dockerización
 - [ ] CI/CD pipeline
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para cambios importantes:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/amazing-feature`)
-3. Commit tus cambios (`git commit -m 'Add amazing feature'`)
-4. Push a la rama (`git push origin feature/amazing-feature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-**Tu Nombre** - [GitHub](https://github.com/tu-usuario)
-
 ---
 
 ⭐ ¡No olvides dar una estrella al proyecto si te fue útil!
